@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dsadsada
 d
 dfdfsdf
@@ -14,3 +15,15 @@ dos
 df
 sis
 df
+=======
+sadasd
+adsdad
+asdadasda
+das
+dad
+ad
+agdfh
+fgh
+g11111
+11dsadsada
+>>>>>>> e0ac347c5ef95d428a0d6a93cce0072eb067c1d8
